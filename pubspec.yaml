@@ -1,0 +1,62 @@
+name: etl_ai
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0-180.3.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.5.1
+  # firebase: ^9.0.3
+  firebase_auth: ^5.1.2
+  firebase_core: ^3.2.0
+  cloud_firestore: ^5.1.0
+  google_generative_ai: ^0.4.3
+  http: ^1.1.0
+  firebase_vertexai: ^0.2.2+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^4.0.0
+
+flutter:  
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
